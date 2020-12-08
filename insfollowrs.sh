@@ -131,4 +131,4 @@ menu
 fi
 }
 banner
-menu  q
+menu
